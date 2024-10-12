@@ -1,9 +1,9 @@
-# ruo-kou-ling-tian-jia-yong-hu-
-弱口令检测与添加用户.py
+# ADSelfService Plus RCE
+CVE-2021-40539：ADSelfService Plus RCE漏洞
 ```
-使用说明：python3 弱口令检测与添加用户.py
-单个扫描：python3 弱口令检测与添加用户.py -u http://xxx.com
-批量扫描：python3 弱口令检测与添加用户.py -f xxx.txt
-![image](https://github.com/user-attachments/assets/cc625e8b-f742-4b5e-b904-1ff4f266cc5d)
+使用说明：python3 CVE-2021-40539：ADSelfService Plus RCE漏洞
+单个扫描：python3 CVE-2021-40539：ADSelfService Plus RCE漏洞 -u http://xxx.com
+批量扫描：python3 CVE-2021-40539：ADSelfService Plus RCE漏洞 -f xxx.txt
+
 
 ```
